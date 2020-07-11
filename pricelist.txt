@@ -1,0 +1,57 @@
+Наименование  Стоймость
+Табак/Alfakher 50 g	190	Руб.
+Табак/B3 50 g	190	Руб.
+Табак/Black Burn 100 g	550	Руб.
+Табак/Black Burn 200 g	945	Руб.
+Табак/Black Burn 20 g	190	Руб.
+Табак/Bonche 80 g	1170	Руб.
+Табак/Burn 100 g	475	Руб.
+Табак/Burn 20 g	170	Руб.
+Табак/Daily Hookah 250 g	900	Руб.
+Табак/Daly Code 20 g	160	Руб.
+Табак/Darkside Base ( Soft ) 250 g	1450	Руб.
+Табак/Darkside Core ( Medium ) 100 g	625	Руб.
+Табак/Darkside Core ( Medium ) 250 g	1450	Руб.
+Табак/Darkside Core (Medium) 30 g	210	Руб.
+Табак/Do You Tobacco 50 g	260	Руб.
+Табак/Duft 100 g	680	Руб.
+Табак/Duft All-in 25 g	230	Руб.
+Табак/Element 100 g - Earth - 100 g	580	Руб.
+Табак/Element 100 g  - Water - 100 g	570	Руб.
+Табак/Element 200 g  - Air - 200 g	735	Руб.
+Табак/Element 200 g  - Earth - 200 g	1155	Руб.
+Табак/Element 200 g  - Water - 200 g	1155	Руб.
+Табак/Element 40 g  - Air - 40 g	200	Руб.
+Табак/Element 40 g  - Earth - 40 g	350	Руб.
+Табак/Element 40 g  - Water - 40 g	280	Руб.
+Табак/Matt Pear 250 g	1565	Руб.
+Табак/Matt Pear 50 g	370	Руб.
+Табак/Must Have 125 g	680	Руб.
+Табак/NAШ 40 g	215	Руб.
+Табак/Satyr 100 g	650	Руб.
+Табак/Satyr 25 g	210	Руб.
+Табак/Sebero 100 g	450	Руб.
+Табак/Sebero 200 g	750	Руб.
+Табак/Sebero 20 g	140	Руб.
+Табак/Sebero 40 g	195	Руб.
+Табак/Sebero LE 75 g	550	Руб.
+Табак/Smoke Angels 100 g	680	Руб.
+Табак/Spectrum 100 g	570	Руб.
+Табак/Spectrum 250 g	1390	Руб.
+Табак/Tangiers 100 g	1260	Руб.
+Табак/Tangiers 250 g	2360	Руб.
+Табак/World Tobacco Original 200 g	5145	Руб.
+Табак/World Tobacco Original 20 g	580	Руб.
+Табак/X Tobacco  50 g	170	Руб.
+Табак/Zomo 50 g	230	Руб.
+Табак/Северный 100 g	610	Руб.
+Табак/Северный 25  g	185	Руб.
+Чайная смесь/Chabacco Medium 100 g	360	Руб.
+Чайная смесь/Chabacco Medium 200 g	695	Руб.
+Чайная смесь/Chabacco Medium 50 g	210	Руб.
+Чайная смесь/Chabacco Strong 50 g	210	Руб.
+Чайная смесь/Dali 250 g	735	Руб.
+Чайная смесь/Dali 50 g	210	Руб.
+Чайная смесь/Do You 50 g	190	Руб.
+Чайная смесь/Eleon	190	Руб.
+Чайная смесь/Kaleidoscope 50 g	195	Руб.

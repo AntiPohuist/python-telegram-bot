@@ -3,6 +3,7 @@ from config import BOT_TOKEN, admin_id
 
 from sqlighter import SQLighter
 
+
 bot = Bot(BOT_TOKEN)
 dp = Dispatcher(bot)
 
@@ -15,6 +16,8 @@ async def on_shutdown(dp):
 
 
 async def on_startup(dp):
+    from throttling import ThrottlingMiddleware
+    dp.middleware.setup(ThrottlingMiddleware())
     await bot.send_message(chat_id=admin_id, text="Бот начал свою работу")
 
 
